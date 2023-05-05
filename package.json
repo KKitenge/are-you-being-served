@@ -9,10 +9,6 @@
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KKitenge/are-you-being-served"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
